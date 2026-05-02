@@ -42,11 +42,11 @@ ___
 
 **linea de codigo**
 
-´´print(hello world)´´
+``print(hello world)``
 
 resaltamos codigo con triple tilde
 
-´´´python
+```python
 import pandas as pd
 
 data = {
@@ -58,7 +58,18 @@ df = pd.DataFrame(data)
 
 print(df)
 
-´´´
+```
+**Tablas:**
+
+|   Tablas  |  Son  |  Geniales  |
+|   ------  | ----- | ---------  |
+|   col1    |   col2    |   col3    |
+
+
+**Imagenes como url**
+
+![visual studio code logo](https://iconape.com/wp-content/files/mk/353137/png/visual-studio-code-logo.png "vscode logo")
+
 * [x] task1
 * [ ] task2
 * [x] task3

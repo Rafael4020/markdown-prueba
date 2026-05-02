@@ -59,4 +59,6 @@ df = pd.DataFrame(data)
 print(df)
 
 ´´´
-
+* [x] task1
+* [ ] task2
+* [x] task3
